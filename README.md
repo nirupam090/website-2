@@ -1,4 +1,4 @@
-### OVERVIEW
-This is the website repository for the O-Botics organization.
+### READ ME
+This website is a repository for the [O'Botics](http://o-botics.org) organization.
 
-Please visit the [O'Botics](http://o-botics.org) website for more information.
+Do visit our website [O'Botics](http://o-botics.org) for more information.
